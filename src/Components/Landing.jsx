@@ -163,7 +163,7 @@ const nav=['DOWNLOAD RESUME']
       </div>
      
       <div>
-        <img className='md:centeredement md:w-[500px] w-[900px] absolute left-[7%]  md:left-[36%] bottom-0'  src={myface3} alt=''/>
+        <img className='md:centeredement md:w-[500px] w-[900px] absolute  md:left-[36%] bottom-0'  src={myface3} alt=''/>
         
       </div>
     </div>
