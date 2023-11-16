@@ -1,0 +1,15 @@
+.bor{
+    border-right: 2px solid #000;
+background: white;
+}
+
+.bore{
+    border: 2px solid #000;
+background: white;
+border-radius: 10px;
+}
+.bob{
+    border-bottom: 2px solid #000;
+    background: white;
+    
+}

@@ -1,0 +1,66 @@
+
+
+.tex{
+    font-size: 200px;
+    flex-shrink: 0;
+    text-transform: uppercase;
+}
+
+.textt{
+    font-size: 50px;
+    flex-shrink: 0;
+    text-transform: uppercase;
+}
+
+.na{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+
+.bet{
+    width: 200px;
+}
+
+.centeredement {
+    position: absolute;
+    text-align: center;
+    top: 56.8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.stripe{
+    width: 100%;
+    padding: 3vw 0;
+    overflow: hidden;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .stripe{
+        padding: 1vw 0;
+        
+    }
+  }
+
+
+.bett{
+    width: 100px;
+}
+
+
+.cont{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.elem{
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 0 10vw;
+    gap: 60px;
+    flex-shrink: 0;
+    font-family: 'Courier Prime', monospace;
+}
