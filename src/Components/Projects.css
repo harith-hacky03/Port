@@ -1,0 +1,21 @@
+.previewer {
+    display: none;
+    z-index: 999;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+  }
+  
+.cc{
+  font-family: 'Quicksand', sans-serif;
+  
+}
+
+  .add:hover .previewer {
+    display: block;
+  }
+  
+  .add:hover {
+    background-color: red;
+  }
+  
