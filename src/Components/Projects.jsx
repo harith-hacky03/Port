@@ -5,7 +5,7 @@ import './Projects.css'
 import gemco from '../assets/gemco.png'
 import priChem from '../assets/priChem.png'
 import web3 from '../assets/web3.png'
-
+import sketch from '../assets/sketch.png'
 
 const Projects = () => {
 
@@ -37,6 +37,12 @@ const Projects = () => {
             image:web3,
             cont:"As the leader of the web development cluster , designed and developed the website from stratch and managed the team of web developers . ",
             link:'https://www.web3sastra.org/'
+        },
+        {
+            title:'SKETCH BOOK',
+            image:sketch,
+            cont:"As a React.js Developer for the Sketchbook project, I am dedicated to crafting a cutting-edge collaborative whiteboard web app. Leveraging my expertise in React.js and Socket.io, I drive the development of real-time collaboration features, ensuring an intuitive and responsive user interface. I am committed to enhancing the Sketchbook experience, employing my skills to create a dynamic platform that facilitates seamless collaboration and fosters effective project communication.",
+            link:"https://soft-muffin-0fda76.netlify.app/"
         }
     ]
   return (
